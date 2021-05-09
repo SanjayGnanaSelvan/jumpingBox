@@ -58,7 +58,7 @@ function draw() {
         ball.velocityY = 0;
         
         //write code to stop music
-        music.pause();
+        music.stop();
     }
 
     //write code to bounce off ball from the block3
